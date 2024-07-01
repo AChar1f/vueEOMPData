@@ -1,0 +1,195 @@
+{
+    "jobTitle" : [
+        {"role" : "Aspiring Developer"}, {"role" : "Sales Executive"} , {"role" : "Educator Assistant"}
+    ] ,
+
+    "Experience" : [
+        {
+            "id" : 1,   
+            "role" : "Aspiring Developer",
+            "location" : "Life Choices",
+            "duration" : "Apr 2024",
+            "description" : "Began training in HTML , CSS , Bootstrap, JavaScript and Vuejs. Undergoing personal and professional developement trainings to reach greater heights in future for both career and personal life."
+        },
+        {
+            "id" : 2,
+            "role" : "Sales Executive",
+            "location" : "YDE & Truworths Cavendish",
+            "duration" : "Dec 2022 - Jun 2023",
+            "description" : "Provide excellent customer service by making use of my product knowledge to deliver an unparalleled customer service experience. "
+        },
+        {
+            "id" : 3,
+            "role" :"Educator Assistant",
+            "location" : "Habibia Primary School",
+            "duration" : "Nov 2021 - Sep 2022",
+            "description" : "Provided administrative support to teachers between grades 4 - 7 and assisted learners that struggled to keep up with the rest of the class. Liason between the teachers, principal and teacher assistants team."
+        }
+
+    ],
+
+    "About" : [
+        {
+            "id" : 1,
+            "part1": "I am a highly-disciplined and driven young man that resides in Cape Town, Surrey Estate. A brother to many and a teacher to some, my journey embodies resilience and a commitment to self-improvement. Graduating from Leadership College Primrose Park in 2019, I pursued excellence by rewriting my matric exams in 2020, achieving a bachelor's pass. ",
+            "part2" : "My determination led me to explore various fields before securing my first job as an Educator Assistant at Habibia Primary School in late 2021. This experience not only enhanced my professional skills but also nurtured personal growth.",
+            "part3" : "Remaining undeterred, I transitioned to the role of a cross-trained Sales Executive at YDE and Truworths, where I honed my sales acumen. Departing in mid-2023, I reignited my passion for technology and embarked on a new chapter, later discovering Life Choices an opportunity poised to further enrich my journey of learning chapter, later discovering Life Choices an opportunity poised to further enrich my journey of learning and development in the technolgical field."
+        }
+       
+    ],
+
+    "Education" : [
+        {
+            "id" : 1,
+            "schoolName" : "The Leadership College",
+            "level" : "High School",
+            "location" : "Primrose Park",
+            "qualification" : "Matric Bachelor Pass",
+            "duration" : "2020 - 2020"
+        },
+        {
+            "id" : 2,
+            "schoolName" : "The Leadership College",
+            "level": "High School",
+            "location" : "Primrose Park",
+            "qualification" : "Matric",
+            "duration" : "2015 - 2019"
+        }
+    ],
+
+    "Skills" : [
+        {
+            "id" : 1,
+            "skillName" : "Problem Solving",
+            "proficieny" : "Intermediate Level: I leverage my strong analytical skills and strategic thinking to deliver exceptional results",
+            "img_url" : "https://achar1f.github.io/projectimages/images/problemsolving.png"
+        },
+        {
+            "id" : 2,
+            "skillName" : "Time Management",
+            "proficieny" : "Intermediate Level: I consistently deliver high-quality results within established timelines.",
+            "img_url" : "https://achar1f.github.io/projectimages/images/timemangement.png"
+        },
+        {
+            "id" : 3,
+            "skillName" : "Computer Skills",
+            "proficieny" : "Intermediate Level: I bring a solid foundation of understanding and a growing proficiency in various hardware, software applications and technical tools.",
+            "img_url" : "https://achar1f.github.io/projectimages/images/cskills.png"
+        },
+        {
+            "id" : 4,
+            "skillName" : "HTML",
+            "proficieny": "Beginner Level: While I may be in the early stages of my HTML journey, I am enthusiastic about honing my skills and mastering best practices in web design and development.",
+            "img_url" : "https://achar1f.github.io/projectimages/images/htmlogo.png"
+        },
+        {
+            "id" : 5,
+            "skillName" : "CSS",
+            "proficieny" : "Beginner Level:I am enthusiastic about further honing my skills and exploring advanced CSS features to enhance user experiences and contribute effectively to web development projects.",
+            "img_url" : "https://achar1f.github.io/projectimages/images/csslogo.png"
+        },
+        {
+            "id" : 6,
+            "skillName" : "JavaScript",
+            "proficieny" : "Beginner Level:I am enthusiastic about further honing my skills and exploring advanced CSS features to enhance user experiences and contribute effectively to web development projects.",
+            "img_url" : "https://achar1f.github.io/projectimages/images/jslogo.png"
+        }
+    ],
+
+    "Projects" : [
+        {
+            "id" : 1,
+            "projectName" : "Kafenio Store",
+            "description" : "JS E-commerce webstore",
+            "img_url" : "https://achar1f.github.io/projectimages/kafenioimages/kafenio-Logo.png",
+            "gitHub" : "https://github.com/AChar1f/JS-Store.git",
+            "vercel" : "https://js-store-nu.vercel.app/"
+        },
+        {
+            "id" : 2,
+            "projectName" : "Cafe Menu",
+            "description" : "Simple Cafe Menu",
+            "img_url" : "https://achar1f.github.io/projectimages/images/coffee-icon.png",
+            "gitHub" : "https://github.com/AChar1f/fcc-cafemenu.git",
+            "vercel" : "https://fcc-cafemenu.vercel.app/"
+        },
+        {
+            "id" : 3,
+            "projectName" : "Salary Calculator",
+            "description" : "Salary Calculator App",
+            "img_url" : "https://achar1f.github.io/projectimages/images/salary-calculator.png",
+            "gitHub" : "https://github.com/AChar1f/vSalaryCalculator.git",
+            "vercel" : "https://v-salary-calculator.vercel.app/"
+        },
+        {
+            "id" : 4,
+            "projectName" : "Cat App",
+            "description" : "Basic Cat App",
+            "img_url" : "https://achar1f.github.io/projectimages/images/cat.png",
+            "gitHub" : "https://github.com/AChar1f/fcc-catapp.git",
+            "vercel" : "https://fcc-catapp.vercel.app/"
+        },
+        {
+            "id" : 5,
+            "projectName" : "Calculator",
+            "description" : "Basic calculator",
+            "img_url" : "https://achar1f.github.io/projectimages/images/512x512.png",
+            "gitHub" : "https://github.com/AChar1f/Calculator.git",
+            "vercel" : "https://calculator-kappa-five-80.vercel.app/"
+        },
+        {
+            "id" : 6,
+            "projectName" : "Floating Keyboard",
+            "description" : "Simple Floating Keyboard",
+            "img_url" : "https://achar1f.github.io/projectimages/images/keyboardbasicflat_106016.png",
+            "gitHub" : "https://github.com/AChar1f/Keyboard.git",
+            "vercel" : "https://keyboard-zeta.vercel.app/"
+        }
+    ],
+
+    "Testimonials" : [
+        {
+            "id" : 1,
+            "name" : "Joel M.",
+            "affiliation" : "Lecturer",
+            "quote" : "Abdurahmaan is a highly creative, well-behaved, and dedicated individual who thrives on collaborating with his peers and excels at working on project assignments. He has acquired various skills and tools, including HTML5, CSS3, Bootstrap, VS Code, and wireframe. I am pleased to introduce him as an exceptional candidate and developer.",
+            "img_url" : "https://achar1f.github.io/projectimages/images/joel2.jpg"
+        },
+        {
+            "id" : 2,
+            "name" : "Imraan S.",
+            "affiliation" : "Colleague",
+            "quote" : "Abdurahmaan embodies the epitome of dedication and reliability in the workplace. His intelligence, diligence, and unwavering commitment to improving his work set a commendable standard for his peers. Although he's readiness to contribute when needed underscores his reliability and dedication to team success. He is truly a rare gem.",
+            "img_url" : "https://achar1f.github.io/projectimages/images/imraans.png"
+        },
+        {
+            "id" : 3,
+            "name" : "Keenan T.",
+            "affiliation" : "Colleague",
+            "quote" : "Abdurahmaan is an insightful individual who is always eager to answer any question that is thrown at him. He is always seen hard at work never letting anything distract him until the work is done. He brings commitment and determination into anything he puts his mind to.",
+            "img_url" : "https://achar1f.github.io/projectimages/images/keenan.png"
+        },
+        {
+            "id" : 4,
+            "name" : "Ismaaeel A.",
+            "affiliation" : "Colleague",
+            "quote" : "He exemplifies remarkable qualities among his peers, consistently offering insightful pearls of wisdom. With a refined eloquence, he engages with others effortlessly and fosters harmonious relationships. His willingness to extend a helping hand to those around him is commendable. The breadth of his potential appears boundless.",
+            "img_url" : "https://achar1f.github.io/projectimages/images/ismaeel.png"
+        },
+        {
+            "id" : 5,
+            "name" : "Zizipho C.",
+            "affiliation" : "Colleague",
+            "quote" : "Abdurahmaan is a good classmate and a friend. He is always eager to help and assist in any way that he can. He is evidently very passionate about coding and everything attached to it, it is contagious when you are around him. He is selfless with his time and is always willing to lend a hand when he can. He is a great problem solver, as he leaves no stones unturned until he finds a solution.",
+            "img_url" : "https://achar1f.github.io/projectimages/images/ziziphoc.png"
+        },
+        {
+            "id" : 6,
+            "name" : "Sipho N.",
+            "affiliation" : "Colleague",
+            "quote" : "I am very honoured to give a testimony on Abdurahmaan.In the times that I have worked alongside him, he has shown a lot of dedication. He is self-driven to do better, and he always works hard to achieve better results.", 
+            "img_url" : "https://achar1f.github.io/projectimages/images/sipho.png"
+        }
+    ]
+
+}
