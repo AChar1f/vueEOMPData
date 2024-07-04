@@ -109,7 +109,7 @@
             "id" : 2,
             "projectName" : "Cafe Menu",
             "description" : "Simple Cafe Menu",
-            "img_url" : "https://achar1f.github.io/projectimages/images/coffee-icon.png",
+            "img_url" : "https://achar1f.github.io/projectimages/vueImages/Cafemenu.png",
             "gitHub" : "https://github.com/AChar1f/fcc-cafemenu.git",
             "vercel" : "https://fcc-cafemenu.vercel.app/"
         },
@@ -125,7 +125,7 @@
             "id" : 4,
             "projectName" : "Cat App",
             "description" : "Basic Cat App",
-            "img_url" : "https://achar1f.github.io/projectimages/images/cat.png",
+            "img_url" : "https://achar1f.github.io/projectimages/vueImages/Catapp.png",
             "gitHub" : "https://github.com/AChar1f/fcc-catapp.git",
             "vercel" : "https://fcc-catapp.vercel.app/"
         },
@@ -133,7 +133,7 @@
             "id" : 5,
             "projectName" : "Calculator",
             "description" : "Basic calculator",
-            "img_url" : "https://achar1f.github.io/projectimages/images/512x512.png",
+            "img_url" : "https://achar1f.github.io/projectimages/vueImages/Calculator.png",
             "gitHub" : "https://github.com/AChar1f/Calculator.git",
             "vercel" : "https://calculator-kappa-five-80.vercel.app/"
         },
@@ -141,7 +141,7 @@
             "id" : 6,
             "projectName" : "Floating Keyboard",
             "description" : "Simple Floating Keyboard",
-            "img_url" : "https://achar1f.github.io/projectimages/images/keyboardbasicflat_106016.png",
+            "img_url" : "https://achar1f.github.io/projectimages/vueImages/Keyboard.png",
             "gitHub" : "https://github.com/AChar1f/Keyboard.git",
             "vercel" : "https://keyboard-zeta.vercel.app/"
         }
