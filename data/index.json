@@ -101,7 +101,7 @@
             "id" : 1,
             "projectName" : "Kafenio Store",
             "description" : "JS E-commerce webstore",
-            "img_url" : "https://achar1f.github.io/projectimages/kafenioimages/kafenio-Logo.png",
+            "img_url" : "https://achar1f.github.io/projectimages/vueImages/Kafenio.png",
             "gitHub" : "https://github.com/AChar1f/JS-Store.git",
             "vercel" : "https://js-store-nu.vercel.app/"
         },
