@@ -120,7 +120,7 @@
         {
             "id" : 1,
             "projectName" : "Novas Digitalis",
-            "description" : "Fullstack E-commerce webapp",
+            "description" : "Fullstack E-commerce app",
             "img_url" : "https://achar1f.github.io/projectimages/vueImages/ND1.png",
             "gitHub" : "https://github.com/AChar1f/novasDigitalis.git",
             "vercel" : "https://novas-digitalis.web.app/"
@@ -128,8 +128,8 @@
         {
             "id" : 2,
             "projectName" : "The Huntsman",
-            "description" : "Node E-commerce webapp",
-            "img_url" : "https://achar1f.github.io/projectimages/vueImages/Calculator.png",
+            "description" : "Node E-commerce app",
+            "img_url" : "https://achar1f.github.io/projectimages/vueImages/huntsman1.png",
             "gitHub" : "https://github.com/AChar1f/the-Huntsman.git",
             "vercel" : "https://thehuntsman-adc15.web.app/"
         },
