@@ -95,6 +95,24 @@
             "skillName" : "JavaScript",
             "proficieny" : "Beginner Level:I am enthusiastic about further honing my skills and exploring advanced CSS features to enhance user experiences and contribute effectively to web development projects.",
             "img_url" : "https://achar1f.github.io/projectimages/images/jslogo.png"
+        },
+        {
+            "id" : 7,
+            "skillName" : "Vue",
+            "proficieny" : "Beginner Level:I am enthusiastic about further honing my skills and exploring Vue.js features to decreaase the build time and contribute effectively to web app development projects.",
+            "img_url" : "https://achar1f.github.io/projectimages/vueImages/vuelogonobg.png"
+        },
+        {
+            "id" : 8,
+            "skillName" : "Node.js",
+            "proficieny" : "Beginner Level:I am enthusiastic about further honing my skills and exploring Node.js features to streamline app development and contribute effectively to web app development projects.",
+            "img_url" : "https://achar1f.github.io/projectimages/vueImages/nodelogonobg.png"
+        },
+        {
+            "id" : 9,
+            "skillName" : "MySQL",
+            "proficieny" : "Beginner Level:I am enthusiastic about further honing my skills and exploring mysql features to optimise queries for better serer response times.",
+            "img_url" : "https://achar1f.github.io/projectimages/vueImages/mysqlogonobg.png"
         }
     ],
 
