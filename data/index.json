@@ -119,6 +119,22 @@
     "Projects" : [
         {
             "id" : 1,
+            "projectName" : "Novas Digitalis",
+            "description" : "Fullstack E-commerce webapp",
+            "img_url" : "https://achar1f.github.io/projectimages/vueImages/ND1.png",
+            "gitHub" : "https://github.com/AChar1f/novasDigitalis.git",
+            "vercel" : "https://novas-digitalis.web.app/"
+        },
+        {
+            "id" : 2,
+            "projectName" : "The Huntsman",
+            "description" : "Node E-commerce webapp",
+            "img_url" : "https://achar1f.github.io/projectimages/vueImages/Calculator.png",
+            "gitHub" : "https://github.com/AChar1f/the-Huntsman.git",
+            "vercel" : "https://thehuntsman-adc15.web.app/"
+        },
+        {
+            "id" : 3,
             "projectName" : "Kafenio Store",
             "description" : "JS E-commerce webstore",
             "img_url" : "https://achar1f.github.io/projectimages/vueImages/Kafenio.png",
@@ -126,7 +142,7 @@
             "vercel" : "https://js-store-nu.vercel.app/"
         },
         {
-            "id" : 2,
+            "id" : 4,
             "projectName" : "Cafe Menu",
             "description" : "Simple Cafe Menu",
             "img_url" : "https://achar1f.github.io/projectimages/vueImages/Cafemenu.png",
@@ -134,7 +150,7 @@
             "vercel" : "https://fcc-cafemenu.vercel.app/"
         },
         {
-            "id" : 3,
+            "id" : 5,
             "projectName" : "Salary Calculator",
             "description" : "Salary Calculator App",
             "img_url" : "https://achar1f.github.io/projectimages/images/salary-calculator.png",
@@ -142,28 +158,12 @@
             "vercel" : "https://v-salary-calculator.vercel.app/"
         },
         {
-            "id" : 4,
-            "projectName" : "Cat App",
-            "description" : "Basic Cat App",
-            "img_url" : "https://achar1f.github.io/projectimages/vueImages/Catapp.png",
-            "gitHub" : "https://github.com/AChar1f/fcc-catapp.git",
-            "vercel" : "https://fcc-catapp.vercel.app/"
-        },
-        {
-            "id" : 5,
+            "id" : 6,
             "projectName" : "Calculator",
             "description" : "Basic calculator",
             "img_url" : "https://achar1f.github.io/projectimages/vueImages/Calculator.png",
             "gitHub" : "https://github.com/AChar1f/Calculator.git",
             "vercel" : "https://calculator-kappa-five-80.vercel.app/"
-        },
-        {
-            "id" : 6,
-            "projectName" : "Floating Keyboard",
-            "description" : "Simple Floating Keyboard",
-            "img_url" : "https://achar1f.github.io/projectimages/vueImages/Keyboard.png",
-            "gitHub" : "https://github.com/AChar1f/Keyboard.git",
-            "vercel" : "https://keyboard-zeta.vercel.app/"
         }
     ],
 
