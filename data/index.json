@@ -210,6 +210,54 @@
             "quote" : "I am very honoured to give a testimony on Abdurahmaan.In the times that I have worked alongside him, he has shown a lot of dedication. He is self-driven to do better, and he always works hard to achieve better results.", 
             "img_url" : "https://achar1f.github.io/projectimages/images/sipho.png"
         }
+    ],
+
+    "Badges" : [
+        {
+        "id" : 1,
+        "course": "Operating Systems Basics",
+        "institute": "Cisco Networking Academy",
+        "img" : "https://achar1f.github.io/projectimages/Badges/linux-unhatched%20(1).png",
+        "pdf" : "https://drive.google.com/file/d/1j-hyEvp5Nz5YieciQuHQX0DybdE2gb7a/view?usp=drive_link"
+        },
+        {
+        "id" : 2,
+        "course": "Linux Unhatched",
+        "institute": "Cisco Networking Academy",
+        "img" : "https://achar1f.github.io/projectimages/Badges/operating-systems-basics%20(1).png",
+        "pdf" : "https://drive.google.com/file/d/17wbm0QEzQyO60aipMQg1sX2xNejS9K6_/view?usp=drive_link"
+        }
+    ],
+
+    "Certificates" : [
+        {
+            "id": 1,
+            "course": "AWS Cloud Practioner Part 1",
+            "institute": "AWS Skill Center CPT",
+            "img": "https://achar1f.github.io/projectimages/AWS%20Certificates/CP1.png",
+            "pdf": "https://drive.google.com/file/d/18v-C5dXvF5C9ZxBxsm6tNXNfbinQzZ3-/view?usp=drive_link"
+        },
+        {
+            "id": 2,
+            "course": "AWS Cloud Practioner Part 2",
+            "institute":"AWS Skill Center CPT",
+            "img": "https://achar1f.github.io/projectimages/AWS%20Certificates/CP2.png",
+            "pdf" : "https://drive.google.com/file/d/19pU3DzD3EFHTT4ac95CvGeJcMbzgbRY5/view?usp=drive_link"
+        },
+        {
+            "id": 3,
+            "course" : "AWS Cloud Practioner Part 3",
+            "institute" : "AWS Skill Center CPT",
+            "img" : "https://achar1f.github.io/projectimages/AWS%20Certificates/CP3.png",
+            "pdf" : "https://drive.google.com/file/d/19pWRAQ07hxlkmbUBmb62QXPZ1r0LGW91/view?usp=drive_link"
+        },
+        {
+            "id" : 4,
+            "course" :"AWS Cloud Practioner Part 4",
+            "institute" :"AWS Skill Center CPT", 
+            "img" : "https://achar1f.github.io/projectimages/AWS%20Certificates/CP4.png",
+            "pdf": "https://drive.google.com/file/d/19skPJs9Jy1x4lym7gRhYr4Vp5fSXH3Oc/view?usp=drive_link"
+        }
     ]
 
 }
