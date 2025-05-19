@@ -6,10 +6,10 @@
     "Experience" : [
         {
             "id" : 1,   
-            "role" : "Aspiring Developer",
-            "location" : "Life Choices",
-            "duration" : "Apr 2024",
-            "description" : "Began training in HTML , CSS , Bootstrap, JavaScript and Vuejs. Undergoing personal and professional developement trainings to reach greater heights in future for both career and personal life."
+            "role" : "Developer Intern",
+            "location" : "LC Studio",
+            "duration" : "Sept 2024 - Present",
+            "description" : "Began training in Networking and transitioned into the Projects Team leveraging my skills and experience to deliver solutions to real-world problems."
         },
         {
             "id" : 2,
@@ -43,19 +43,19 @@
     "Education" : [
         {
             "id" : 1,
-            "schoolName" : "The Leadership College",
-            "level" : "High School",
-            "location" : "Primrose Park",
-            "qualification" : "Matric Bachelor Pass",
-            "duration" : "2020 - 2020"
+            "schoolName" : "Life Choices Academy",
+            "level" : "Bootcamp",
+            "location" : "Lansdowne",
+            "qualification" : "Full-Stack Course",
+            "duration" : "Apr 2024 - Sept 2020"
         },
         {
             "id" : 2,
             "schoolName" : "The Leadership College",
             "level": "High School",
             "location" : "Primrose Park",
-            "qualification" : "Matric",
-            "duration" : "2015 - 2019"
+            "qualification" : "Matric Bachelor Pass",
+            "duration" : "Jan 2015 - Jun 2020"
         }
     ],
 
